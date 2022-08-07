@@ -9,3 +9,12 @@ body {
   align-items: center;
   height: 100vh;
 }
+#btn {
+  color: white;
+  background-color: black;
+  border: 3px solid white;
+  border-radius: 20px;
+  padding: 10px;
+  font-size: 30px;
+  font-family: 'Lobster', cursive;
+}
