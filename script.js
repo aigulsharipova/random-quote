@@ -5,4 +5,6 @@ const quotes = ["the people who are crazy enough to think they can change the wo
 
 button.addEventListener('click', () => {
   let random = quotes[Math.floor(Math.random() * quotes.length)]
+
+  par.textContent = random;
 })
