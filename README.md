@@ -2,7 +2,7 @@
 
 The app gives the random quotes.
 
-- ## [Restaurant](https://game-math.glitch.me)
+- ## [Quote](https://the-random-quote.glitch.me)
 
 ---
 
@@ -18,4 +18,4 @@ The app gives the random quotes.
 
 ## Screenshot 📸
 
-![Example 1](./style/screen.png)
+![Example 1](./style/screen1.png)
