@@ -7,7 +7,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 40vh;
+
 }
 #btn {
   color: white;
@@ -17,8 +18,12 @@ body {
   padding: 10px;
   font-size: 30px;
   font-family: 'Lobster', cursive;
+  position: fixed;
 }
 #text {
+  font-family: 'Lobster', cursive;
   color: white;
-  font-size: 40px;
+  font-size: 55px;
+  margin-top: 550px;
+  text-align: center;
 }
