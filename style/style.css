@@ -1,0 +1,11 @@
+body {
+  background-image: url(./photo.jpg);
+  background-size: cover;
+  background-position: center;
+}
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
